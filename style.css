@@ -1,5 +1,9 @@
 body {
- background: #421515;
- background: linear-gradient(90deg, rgba(66, 21, 21, 1) 18%, rgba(82, 38, 78, 1) 47%, rgba(41, 35, 35, 1) 81%);
-  );
+  margin: 0;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  color: white;
+
+  /* Nowy gradient */
+  background: linear-gradient(90deg, rgba(66, 21, 21, 1) 18%, rgba(82, 38, 78, 1) 47%, rgba(41, 35, 35, 1) 81%);
 }
